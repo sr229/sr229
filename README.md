@@ -1,6 +1,6 @@
 # Hello.world();
 
-Hey, you're finally here. You were trying to find some sort of exhaustive resource about me? Cool. Then this README is designed for you to know how exactly I am.
+Hey, you're finally here. You were trying to find some sort of exhaustive resource about me? Cool! Then this README is designed for you to know how exactly I am.
 
 
 ## Who am I?
