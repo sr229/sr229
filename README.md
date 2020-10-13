@@ -21,5 +21,6 @@ Of course! My official funding links are here:
 
 - [Ko-fi](https://ko-fi.com/capuccino)
 - [PayPal](https://paypal.me/chinodesuuu)
+- [LiberaPay](https://liberapay.com/chinodesuuu/)
 
 Giving my projects stars also helps! It means a lot to me when people stop by and they think its excellent, so don't shy away giving stars if you think I'm doing well.
