@@ -19,7 +19,6 @@ Nope! Though my pinned projects are my projects or the projects I've contributed
 
 Of course! My official funding links are here:
 
-- [Ko-fi](https://ko-fi.com/capuccino)
 - [PayPal](https://paypal.me/sr229)
 - [LiberaPay](https://liberapay.com/chinodesuuu/)
 
