@@ -22,4 +22,6 @@ Of course! My official funding links are here:
 - [PayPal](https://paypal.me/sr229)
 - [LiberaPay](https://liberapay.com/chinodesuuu/)
 
+*(PS: The PayPal linked on this account(s) is not mine but will handle the transactions on behalf of me while I finish migration of my sponsorships to be exclusively GitHub Sponsors.)*
+
 Giving my projects stars also helps! It means a lot to me when people stop by and they think its excellent, so don't shy away giving stars if you think I'm doing well.
