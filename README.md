@@ -19,6 +19,7 @@ Nope! Though my pinned projects are my projects or the projects I've contributed
 
 Of course! My official funding links are here:
 
+- [Ko-fi](https://ko-fi.com/capuccino)
 - Stellar Network: `chinodesuuu*keybase.io` or `GB6R5VUMCUVMKZNWWZPH5TZ5BLKQ3KUPYERBUJTD4DMYBAX3GG7S2TX7`
 - [CryptoPayment (For any other crypto)](https://vendor.cryptopayment.link/p/Ky12m78u)
 
