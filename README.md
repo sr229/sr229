@@ -5,7 +5,7 @@ Hey, you're finally here. You were trying to find some sort of exhaustive resour
 
 ## Who am I?
 
-People usually call me as sr229, Capuccino, Enra, but I'm known here as Ayane Satomi. I'm a hobbyist coder since middle school and I've been working on stuff with Docker and Kubernetes for almost 3 years as a hobby.
+Hey, I'm Ayane Satomi, you also know me as Capuccino on Twitter or in osu!. I'm a hobbyist coder since middle school and I've been working on stuff with Docker and Kubernetes for almost 3 years as a hobby.
 
 While I don't have that much of professional experience, I'm eager to learn and I'm willing to solve problems and cooperate with everyone to move a project. 
 
