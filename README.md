@@ -23,3 +23,5 @@ Of course! My official funding links are here:
 - Stellar Network: `chinodesuuu*keybase.io` or `GB6R5VUMCUVMKZNWWZPH5TZ5BLKQ3KUPYERBUJTD4DMYBAX3GG7S2TX7`
 
 Giving my projects stars also helps! It means a lot to me when people stop by and they think its excellent, so don't shy away giving stars if you think I'm doing well.
+
+[![@chinodesuuu's Holopin board](https://holopin.me/chinodesuuu)](https://holopin.io/@chinodesuuu)
