@@ -5,9 +5,7 @@ Hey, you're finally here. You were trying to find some sort of exhaustive resour
 
 ## Who am I?
 
-Hey, I'm Ayane Satomi, you also know me as Capuccino on Twitter or in osu!. I'm a hobbyist coder since middle school and I've been working on stuff with Docker and Kubernetes for almost 3 years as a hobby.
-
-While I don't have that much of professional experience, I'm eager to learn and I'm willing to solve problems and cooperate with everyone to move a project. 
+Hey, I'm Ayase Minori, you also know me as Capuccino or Ayane Satomi on Twitter or in osu!. I'm a hobbyist coder since middle school and I've been working on stuff ranging from cloud-native technologies like Docker and Kubernetes to native application development with .NET, Rust and Zig.
 
 
 ## Have you done anything notable?
@@ -19,6 +17,7 @@ Nope! Though my pinned projects are my projects or the projects I've contributed
 
 Of course! My official funding links are here:
 
+- [GitHub Sponsors](https://github.com/sponsors/sr229)
 - [Ko-fi](https://ko-fi.com/capuccino)
 - Stellar Network: `chinodesuuu*keybase.io` or `GB6R5VUMCUVMKZNWWZPH5TZ5BLKQ3KUPYERBUJTD4DMYBAX3GG7S2TX7`
 
